@@ -49,3 +49,29 @@ This project involves an in-depth analysis of NBA performance data, including bo
 - **season_summary_df.csv:** Raw dataset with seasonal summaries (e.g., Champions, Runner-up) from 1980-2024.
 - **cleaned_total_stats.csv:** Cleaned dataset with total stats and Finals rankings (Finals_Rk).
 - **cleaned_avg_stats.csv:** Cleaned dataset with average stats, Finals rankings (Finals_Rk), Age, and Wins.
+
+
+### Part III: Data Exploration - NBA Data Exploration
+
+1. **Load Cleaned Data:**
+   - Load the cleaned data from the CSV file.
+
+2. **Univariate Analysis:**
+   - Analyze individual variables (e.g., Points, 3P%, Age, Margin of Victory).
+   - Create histograms, box plots, and descriptive statistics.
+
+3. **Bivariate Analysis:**
+   - Analyze relationships between two variables (e.g., 3P% vs. Points).
+   - Use scatter plots, correlation matrices, and regression analysis.
+
+4. **Multivariate Analysis:**
+   - Explore interactions between multiple variables.
+   - Use pair plots, heatmaps, and advanced statistical techniques.
+
+5. **Categorical Analysis:**
+   - Analyze categorical variables, especially `Finals_Ranking`.
+   - Use bar charts and box plots.
+
+6. **Visualizations:**
+   - Create informative and interactive visualizations using `matplotlib` and `seaborn`.
+   - Focus on trends and patterns related to team performance.
