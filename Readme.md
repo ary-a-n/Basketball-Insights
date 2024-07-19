@@ -1,11 +1,9 @@
 # Basketball-Insights
 
-## Project Overview
-
 This project involves an in-depth analysis of NBA performance data, including both historical and recent statistics. The objective is to explore and visualize trends, uncover insights, and evaluate the impact of various performance metrics on team success. The analysis spans multiple parts, including data collection, cleaning, and exploration.
 
 ## Project Components
-
+![](https://cdn.careerfoundry.com/en/wp-content/uploads/old-blog-uploads/the-data-analysis-process-1.jpg)
 ### Part I: Data Collection - NBA Web Scraping
 
 1. **Set Up Environment:**
